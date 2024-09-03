@@ -4,7 +4,7 @@ Big Picture.
 Before diving in Linux, we need to discuss couple of things, or try to understand
 why exactly things, happens to be end up like that.
 
-# === > Typical Computer System Architecture
+# === > Typical Computer System Architegcture
 
 * Physical Level -Computing machine (CPU,RAM,Memory,Devices)
 * OS Level - Kernell(Mother of all programs, which controls who can access what), other programs refered usually as processes(or daemons)
